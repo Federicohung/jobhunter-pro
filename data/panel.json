@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-05-02T18:16:05.944Z",
+  "updatedAt": "2026-05-02T19:13:24.127Z",
   "status": "active",
   "vacancies": [
     {
@@ -814,24 +814,6 @@
       "needsCvVersion": false
     },
     {
-      "id": 47,
-      "company": "Mercor",
-      "role": "Spanish Language Specialist (Remote)",
-      "location": "Remote",
-      "matchScore": 65,
-      "status": "pending",
-      "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Mercor%20Spanish%20Language%20Specialist%20Remote",
-      "salary": "$37/hr",
-      "notes": "Especialista lengua espanola. Remoto.",
-      "cvRecommendation": {
-        "cvBase": "general",
-        "label": "General",
-        "adapt": "Vers adaptable"
-      },
-      "needsCvVersion": false
-    },
-    {
       "id": 48,
       "company": "AbroadWorks",
       "role": "Virtual Assistant Bilingual English/Spanish",
@@ -869,6 +851,25 @@
     }
   ],
   "applications": [
+    {
+      "id": 47,
+      "company": "Mercor",
+      "role": "Spanish Language Specialist (Remote)",
+      "location": "Remote",
+      "matchScore": 65,
+      "status": "applied",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Mercor%20Spanish%20Language%20Specialist%20Remote",
+      "salary": "$37/hr",
+      "notes": "Especialista lengua espanola. Remoto.",
+      "cvRecommendation": {
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
+      },
+      "needsCvVersion": false,
+      "appliedDate": "2026-05-02"
+    },
     {
       "id": 49,
       "company": "GDHG",
@@ -928,8 +929,8 @@
     }
   ],
   "stats": {
-    "totalApplications": 3,
-    "vacanciesPending": 48,
+    "totalApplications": 4,
+    "vacanciesPending": 47,
     "interviews": 0
   }
 }
