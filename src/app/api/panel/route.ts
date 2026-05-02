@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server'
 
-const GITHUB_RAW = 'https://raw.githubusercontent.com/Federicohung/jobhunter-pro/main/data/panel.json'
+const GITHUB_RAW = 'https://raw.githubusercontent.com/Federicohung/jobhunter-pro/master/data/panel.json'
 
 export async function GET() {
   try {
