@@ -13,7 +13,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Operations Manager remoto para LATAM. Match alto con tu perfil de operaciones."
+      "notes": "Operations Manager remoto para LATAM. Match alto con tu perfil de operaciones.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 2,
@@ -25,7 +31,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Gestion de pedidos y operaciones. Nothing es empresa tech conocida."
+      "notes": "Gestion de pedidos y operaciones. Nothing es empresa tech conocida.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 3,
@@ -37,7 +49,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Senior Operations, work from home. Encaja perfecto con tu experiencia."
+      "notes": "Senior Operations, work from home. Encaja perfecto con tu experiencia.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 4,
@@ -49,7 +67,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Gestion de equipos operativos remotos."
+      "notes": "Gestion de equipos operativos remotos.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 5,
@@ -61,7 +85,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Director%20de%20Operaciones%20Spanish%20Remote",
       "salary": "No publicado",
-      "notes": "Spanish only, sin ingles obligatorio. Operations management."
+      "notes": "Spanish only, sin ingles obligatorio. Operations management.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 6,
@@ -73,7 +103,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Ops Manager para Argentina. Exp venezolana + Chile LATAM."
+      "notes": "Ops Manager para Argentina. Exp venezolana + Chile LATAM.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 7,
@@ -85,7 +121,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Ops Manager Venezuela. Tu pais de origen."
+      "notes": "Ops Manager Venezuela. Tu pais de origen.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 8,
@@ -97,7 +139,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Ops Manager Panama. experiencia LATAM."
+      "notes": "Ops Manager Panama. experiencia LATAM.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 9,
@@ -109,7 +157,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Remote%20Spanish%20Manager",
       "salary": "No publicado",
-      "notes": "Spanish-speaking required. Remote desde USA. Match alto."
+      "notes": "Spanish-speaking required. Remote desde USA. Match alto.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 10,
@@ -121,7 +175,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Ventas%20Remote%20Spanish%20B2B",
       "salary": "No publicado",
-      "notes": "Sales Manager LATAM, 100% remote."
+      "notes": "Sales Manager LATAM, 100% remote.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 11,
@@ -133,7 +193,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Ventas%20Remote%20Spanish%20B2B",
       "salary": "No publicado",
-      "notes": "Sales Manager cubriendo Espana y LATAM. Perfecto combo."
+      "notes": "Sales Manager cubriendo Espana y LATAM. Perfecto combo.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 12,
@@ -145,7 +211,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "KAM senior con cobertura LATAM + Europa. Activamente contratando."
+      "notes": "KAM senior con cobertura LATAM + Europa. Activamente contratando.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 13,
@@ -157,7 +229,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "KAM senior, tech/retail. Cobertura LATAM + Europa."
+      "notes": "KAM senior, tech/retail. Cobertura LATAM + Europa.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 14,
@@ -169,7 +247,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Sales Manager sector salud, LATAM South. Publicado ayer."
+      "notes": "Sales Manager sector salud, LATAM South. Publicado ayer.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 15,
@@ -181,7 +265,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Sales Manager LATAM, empresa tech conocida."
+      "notes": "Sales Manager LATAM, empresa tech conocida.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 16,
@@ -193,7 +283,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Pre-sales Manager, fintech/regtech."
+      "notes": "Pre-sales Manager, fintech/regtech.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 17,
@@ -205,7 +301,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "KAM Enterprise en Madrid. Plataforma freelance conocida."
+      "notes": "KAM Enterprise en Madrid. Plataforma freelance conocida.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 18,
@@ -217,7 +319,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "KAM ciberseguridad. 3 ubicaciones en Andalucia."
+      "notes": "KAM ciberseguridad. 3 ubicaciones en Andalucia.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 19,
@@ -229,7 +337,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "KAM sector viajes/hospitalidad."
+      "notes": "KAM sector viajes/hospitalidad.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 20,
@@ -241,7 +355,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "Commercial Manager remoto en Espana. Insurtech."
+      "notes": "Commercial Manager remoto en Espana. Insurtech.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 21,
@@ -253,7 +373,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "Consultoria comercial, sector farma/health. Remote Espana."
+      "notes": "Consultoria comercial, sector farma/health. Remote Espana.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 22,
@@ -265,7 +391,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "KAM hosting/cloud solutions, EMEA."
+      "notes": "KAM hosting/cloud solutions, EMEA.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 23,
@@ -277,7 +409,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "KAM salud publica. Sector interesantes con tu exp farma."
+      "notes": "KAM salud publica. Sector interesantes con tu exp farma.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 24,
@@ -289,7 +427,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "KAM farmaceutico, enfocado en endocrinologia. Encaja con tu exp en Bayer/POEN."
+      "notes": "KAM farmaceutico, enfocado en endocrinologia. Encaja con tu exp en Bayer/POEN.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 25,
@@ -301,7 +445,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "KAM sector medico. Catalunya."
+      "notes": "KAM sector medico. Catalunya.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 26,
@@ -313,7 +463,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "KAM food/beverage ingredients. Murcia."
+      "notes": "KAM food/beverage ingredients. Murcia.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 27,
@@ -325,7 +481,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Director%20de%20Operaciones%20Spanish%20Remote",
       "salary": "No publicado",
-      "notes": "Director estrategia + operaciones. Life Sciences/Farma."
+      "notes": "Director estrategia + operaciones. Life Sciences/Farma.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 28,
@@ -337,7 +499,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Partner operations, empresa tech base de datos."
+      "notes": "Partner operations, empresa tech base de datos.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 29,
@@ -349,7 +517,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Revenue ops, empresa tech."
+      "notes": "Revenue ops, empresa tech.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 30,
@@ -361,7 +535,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Growth + operations. Mexico."
+      "notes": "Growth + operations. Mexico.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 31,
@@ -373,7 +553,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Ops quality, fintech. Multiples paises LATAM."
+      "notes": "Ops quality, fintech. Multiples paises LATAM.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 32,
@@ -385,7 +571,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Ops + marketing LATAM. Publicado ayer."
+      "notes": "Ops + marketing LATAM. Publicado ayer.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 33,
@@ -397,7 +589,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "CX operations senior, DiDi es gigante tech."
+      "notes": "CX operations senior, DiDi es gigante tech.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 34,
@@ -409,7 +607,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Senior Manager operacion centro, Experian."
+      "notes": "Senior Manager operacion centro, Experian.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 35,
@@ -421,7 +625,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Ops e-commerce Amazon FBA. Tu exp en e-commerce encaja."
+      "notes": "Ops e-commerce Amazon FBA. Tu exp en e-commerce encaja.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 36,
@@ -433,7 +643,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "AI operations, sector emergente."
+      "notes": "AI operations, sector emergente.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 37,
@@ -445,7 +661,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Payments operations, fintech."
+      "notes": "Payments operations, fintech.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 38,
@@ -457,7 +679,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Remote%20Spanish%20Manager",
       "salary": "No publicado",
-      "notes": "Sales supervisor, multiples ubicaciones LATAM."
+      "notes": "Sales supervisor, multiples ubicaciones LATAM.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 39,
@@ -469,7 +697,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Pre-sales tech, Atlassian partner."
+      "notes": "Pre-sales tech, Atlassian partner.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 40,
@@ -481,7 +715,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Business dev industrial, ABB es multinacional grande."
+      "notes": "Business dev industrial, ABB es multinacional grande.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 41,
@@ -493,7 +733,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "Consultoria de negocios. Madrid."
+      "notes": "Consultoria de negocios. Madrid.",
+      "cvRecommendation": {
+        "cvBase": "general",
+        "label": "CV General",
+        "adapt": "Versión general, adaptable a cualquier rol"
+      },
+      "needsCvVersion": false
     },
     {
       "id": 42,
@@ -505,7 +751,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Talent ops, empresa tech grande LATAM."
+      "notes": "Talent ops, empresa tech grande LATAM.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 43,
@@ -517,7 +769,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Customer success ops, edtech."
+      "notes": "Customer success ops, edtech.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 44,
@@ -529,7 +787,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Sales manager salud/LATAM."
+      "notes": "Sales manager salud/LATAM.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 45,
@@ -541,7 +805,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Director%20de%20Operaciones%20Spanish%20Remote",
       "salary": "No publicado",
-      "notes": "Director regional logistica, multinacional espanola."
+      "notes": "Director regional logistica, multinacional espanola.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 46,
@@ -553,7 +823,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Ops protection, proptech grande en Brasil."
+      "notes": "Ops protection, proptech grande en Brasil.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 47,
@@ -565,7 +841,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Campaign ops senior, Costa Rica."
+      "notes": "Campaign ops senior, Costa Rica.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 48,
@@ -577,7 +859,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "KAM Sandisk, marca global tech."
+      "notes": "KAM Sandisk, marca global tech.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 49,
@@ -589,7 +877,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
       "salary": "No publicado",
-      "notes": "Commercial + bid management, aerospacial."
+      "notes": "Commercial + bid management, aerospacial.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "CV Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+      },
+      "needsCvVersion": true
     },
     {
       "id": 50,
@@ -601,7 +895,13 @@
       "foundDate": "2026-05-02",
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "Senior ops global, telecom infrastructure."
+      "notes": "Senior ops global, telecom infrastructure.",
+      "cvRecommendation": {
+        "cvBase": "operations",
+        "label": "CV Operaciones",
+        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+      },
+      "needsCvVersion": true
     }
   ],
   "applications": [
