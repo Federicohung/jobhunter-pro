@@ -1,221 +1,221 @@
 {
-  "version": "2.1",
-  "updatedAt": "2026-05-02T09:06:00-04:00",
+  "version": "3.0",
+  "updatedAt": "2026-05-02T12:00:00-04:00",
   "status": "active",
   "vacancies": [
     {
       "id": 1,
-      "company": "Hired",
-      "role": "Operations Manager",
-      "location": "Remote / LATAM",
-      "matchScore": 85,
+      "company": "Hostaway",
+      "role": "Customer Success Manager (Spanish Speaking)",
+      "location": "Remote / Bogota, Colombia",
+      "matchScore": 78,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Hostaway%20Customer%20Success%20Manager%20Spanish%20Speaking",
       "salary": "No publicado",
-      "notes": "Operations Manager remoto para LATAM. Match alto con tu perfil de operaciones.",
+      "notes": "CSM 100% remoto LATAM. Espanol requerido. Sector hospitality tech.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar retencion, relacion con clientes, onboarding"
       },
       "needsCvVersion": true
     },
     {
       "id": 2,
-      "company": "Nothing",
-      "role": "Order Operations Manager",
-      "location": "Remote / Mexico",
-      "matchScore": 78,
+      "company": "Hostaway",
+      "role": "Sales Development Representative (Spanish Speaking)",
+      "location": "Remote / Europa",
+      "matchScore": 72,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Hostaway%20Sales%20Development%20Representative%20Spanish",
       "salary": "No publicado",
-      "notes": "Gestion de pedidos y operaciones. Nothing es empresa tech conocida.",
+      "notes": "SDR para Europa, espanol requerido.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 3,
-      "company": "Persona",
-      "role": "Senior Operations Manager (WFH)",
+      "company": "Gold & Aron",
+      "role": "Head of Sales LATAM (Spanish-speaking)",
       "location": "Remote / LATAM",
       "matchScore": 82,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gold%20%26%20Aron%20Head%20of%20Sales%20LATAM",
       "salary": "No publicado",
-      "notes": "Senior Operations, work from home. Encaja perfecto con tu experiencia.",
+      "notes": "Head of Sales para LATAM. Espanol hablado requerido.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 4,
-      "company": "Sourced",
-      "role": "Workforce Operations Manager",
-      "location": "Remote / LATAM",
-      "matchScore": 75,
+      "company": "THG",
+      "role": "Sales Manager LATAM & South America - Myprotein",
+      "location": "Remote / USA",
+      "matchScore": 76,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=THG%20Myprotein%20Sales%20Manager%20LATAM",
       "salary": "No publicado",
-      "notes": "Gestion de equipos operativos remotos.",
+      "notes": "Sales Manager para marca deportiva, LATAM + South America.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 5,
-      "company": "HireLATAM",
-      "role": "Director de Operaciones Remoto (Spanish Only)",
-      "location": "Remote / LATAM",
+      "company": "Airpelago",
+      "role": "Sales Manager Spain & LATAM",
+      "location": "Remote / Madrid",
       "matchScore": 80,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Director%20de%20Operaciones%20Spanish%20Remote",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Airpelago%20Sales%20Manager%20Spain%20LATAM",
       "salary": "No publicado",
-      "notes": "Spanish only, sin ingles obligatorio. Operations management.",
+      "notes": "Sales Manager cubriendo Espana y LATAM. Remote.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 6,
-      "company": "Core Code io",
-      "role": "Operations Manager ARG (Remote)",
-      "location": "Remote / Buenos Aires",
-      "matchScore": 70,
+      "company": "Motive",
+      "role": "Account Executive SMB - Spanish Speaking",
+      "location": "Remote",
+      "matchScore": 74,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Motive%20Account%20Executive%20Spanish%20Speaking",
       "salary": "No publicado",
-      "notes": "Ops Manager para Argentina. Exp venezolana + Chile LATAM.",
+      "notes": "Account Executive para PYMEs. Espanol requerido. Actively hiring.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 7,
-      "company": "Core Code io",
-      "role": "Operations Manager VEN (Remote)",
-      "location": "Remote / Caracas",
-      "matchScore": 72,
+      "company": "Deel",
+      "role": "Sales Development Representative SMB/MM LATAM",
+      "location": "Remote / Brazil",
+      "matchScore": 73,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Deel%20SDR%20LATAM",
       "salary": "No publicado",
-      "notes": "Ops Manager Venezuela. Tu pais de origen.",
+      "notes": "SDR para LATAM. Deel es unicornio HR tech.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 8,
-      "company": "Core Code io",
-      "role": "Operations Manager PAN (Remote)",
-      "location": "Remote / Panama",
-      "matchScore": 70,
+      "company": "DocuSign",
+      "role": "Partner Development Representative - English & Spanish",
+      "location": "Remote / LATAM",
+      "matchScore": 77,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=DocuSign%20Partner%20Development%20Representative%20Spanish",
       "salary": "No publicado",
-      "notes": "Ops Manager Panama. experiencia LATAM.",
+      "notes": "Partner Dev Rep, ingles + espanol. DocuSign marca global.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
       },
-      "needsCvVersion": true
+      "needsCvVersion": false
     },
     {
       "id": 9,
-      "company": "Lets Get Funded",
-      "role": "Operations Manager (Remote, Spanish-Speaking)",
-      "location": "Remote / USA",
-      "matchScore": 83,
+      "company": "Canva",
+      "role": "Higher Education Account Executive",
+      "location": "Remote / Miami",
+      "matchScore": 75,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Remote%20Spanish%20Manager",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Canva%20Higher%20Education%20Account%20Executive",
       "salary": "No publicado",
-      "notes": "Spanish-speaking required. Remote desde USA. Match alto.",
+      "notes": "Account Executive para educacion superior. Canva.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 10,
-      "company": "CVEDIA",
-      "role": "Sales Manager - LATAM Region (REMOTE)",
-      "location": "Remote / Mexico",
-      "matchScore": 80,
+      "company": "Sandisk",
+      "role": "Key Account Manager - Miami",
+      "location": "Miami, FL",
+      "matchScore": 71,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Ventas%20Remote%20Spanish%20B2B",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Sandisk%20Key%20Account%20Manager%20Miami",
       "salary": "No publicado",
-      "notes": "Sales Manager LATAM, 100% remote.",
+      "notes": "KAM marca global tech. Miami como hub LATAM.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 11,
-      "company": "Airpelago",
-      "role": "Sales Manager - Spain & LATAM",
-      "location": "Remote / Madrid",
-      "matchScore": 82,
+      "company": "Cuota",
+      "role": "GTM Associate (Spanish Speaking)",
+      "location": "Remote / Miami",
+      "matchScore": 70,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Ventas%20Remote%20Spanish%20B2B",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Cuota%20GTM%20Associate%20Spanish",
       "salary": "No publicado",
-      "notes": "Sales Manager cubriendo Espana y LATAM. Perfecto combo.",
+      "notes": "Go-to-Market associate. Espanol requerido.",
       "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
       },
-      "needsCvVersion": true
+      "needsCvVersion": false
     },
     {
       "id": 12,
-      "company": "STATION F",
-      "role": "Senior KAM - Spain, Italy & LATAM",
-      "location": "Madrid, Espana",
-      "matchScore": 85,
+      "company": "VWO",
+      "role": "SDR LATAM (Portuguese and Spanish Fluent)",
+      "location": "Remote / LATAM",
+      "matchScore": 72,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=VWO%20SDR%20LATAM%20Spanish",
       "salary": "No publicado",
-      "notes": "KAM senior con cobertura LATAM + Europa. Activamente contratando.",
+      "notes": "SDR LATAM, espanol fluido requerido.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
@@ -227,679 +227,679 @@
       "matchScore": 84,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=AB%20Tasty%20Senior%20KAM%20Spain%20Italy%20LatAm",
       "salary": "No publicado",
-      "notes": "KAM senior, tech/retail. Cobertura LATAM + Europa.",
+      "notes": "KAM senior tech/retail. Cobertura Europa + LATAM.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 14,
-      "company": "Cepheid",
-      "role": "Regional Sales Manager, LATAM South",
-      "location": "Remote / Bogota",
-      "matchScore": 78,
+      "company": "STATION F",
+      "role": "Senior KAM - Spain, Italy & LATAM",
+      "location": "Madrid, Espana",
+      "matchScore": 85,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=STATION%20F%20Senior%20KAM%20Spain%20Italy%20LATAM",
       "salary": "No publicado",
-      "notes": "Sales Manager sector salud, LATAM South. Publicado ayer.",
+      "notes": "KAM senior. Activamente contratando.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 15,
-      "company": "New Relic",
-      "role": "Partner Sales Manager - LATAM",
-      "location": "Miami / Remote",
-      "matchScore": 75,
+      "company": "Duetto",
+      "role": "Regional Director of Sales LATAM",
+      "location": "Remote / Mexico",
+      "matchScore": 78,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Duetto%20Regional%20Director%20Sales%20LATAM",
       "salary": "No publicado",
-      "notes": "Sales Manager LATAM, empresa tech conocida.",
+      "notes": "Director de ventas regional LATAM. Hospitality tech.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 16,
-      "company": "Sumsub",
-      "role": "Transaction Monitoring Pre-Sales Manager (LatAm)",
-      "location": "Remote / LATAM",
-      "matchScore": 76,
+      "company": "Cepheid",
+      "role": "Regional Sales Manager LATAM South",
+      "location": "Remote / Bogota",
+      "matchScore": 77,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Cepheid%20Regional%20Sales%20Manager%20LATAM%20South",
       "salary": "No publicado",
-      "notes": "Pre-sales Manager, fintech/regtech.",
+      "notes": "Sales Manager sector salud. Publicado ayer.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 17,
-      "company": "Malt",
-      "role": "Key Account Manager / Enterprise",
-      "location": "Madrid, Espana",
-      "matchScore": 80,
+      "company": "Radiometer",
+      "role": "Sales Manager LATAM and Caribbean",
+      "location": "Sao Paulo, Brasil",
+      "matchScore": 75,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Radiometer%20Sales%20Manager%20LATAM%20Caribbean",
       "salary": "No publicado",
-      "notes": "KAM Enterprise en Madrid. Plataforma freelance conocida.",
+      "notes": "Sales Manager salud, LATAM + Caribe.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 18,
-      "company": "Hornetsecurity",
-      "role": "Key Account Manager Spain South",
-      "location": "Remote / Madrid-Malaga-Sevilla",
-      "matchScore": 79,
+      "company": "Twilio",
+      "role": "Senior Partner Alliance Manager",
+      "location": "Remote / Mexico",
+      "matchScore": 76,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Twilio%20Senior%20Partner%20Alliance%20Manager%20Mexico",
       "salary": "No publicado",
-      "notes": "KAM ciberseguridad. 3 ubicaciones en Andalucia.",
+      "notes": "Partner Alliance, Twilio es marca tech global.",
       "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
       },
-      "needsCvVersion": true
+      "needsCvVersion": false
     },
     {
       "id": 19,
-      "company": "Travelgate",
-      "role": "Key Account Manager (KAM)",
-      "location": "Remote / Baleares",
-      "matchScore": 77,
+      "company": "CooperSurgical",
+      "role": "Head of Distribution Sales EMEA and LATAM",
+      "location": "Remote / Espana",
+      "matchScore": 79,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=CooperSurgical%20Head%20Distribution%20Sales%20EMEA%20LATAM",
       "salary": "No publicado",
-      "notes": "KAM sector viajes/hospitalidad.",
+      "notes": "Head of Distribution, sector salud. Espana.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 20,
-      "company": "HBX Group",
-      "role": "Commercial Manager, Travel Insurance (Remote Spain)",
-      "location": "Remote / Espana",
-      "matchScore": 81,
+      "company": "CVEDIA",
+      "role": "Sales Manager LATAM Region (Remote)",
+      "location": "Remote / LATAM",
+      "matchScore": 74,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=CVEDIA%20Sales%20Manager%20LATAM%20Remote",
       "salary": "No publicado",
-      "notes": "Commercial Manager remoto en Espana. Insurtech.",
+      "notes": "Sales Manager remoto LATAM. AI tech.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 21,
-      "company": "Veeva Systems",
-      "role": "Business Consultant - Commercial (Remote Spain)",
-      "location": "Remote / Espana",
-      "matchScore": 74,
+      "company": "Valutico",
+      "role": "Account Executive LATAM (Spanish Speaking)",
+      "location": "Remote / LATAM",
+      "matchScore": 73,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Valutico%20Account%20Executive%20LATAM%20Spanish",
       "salary": "No publicado",
-      "notes": "Consultoria comercial, sector farma/health. Remote Espana.",
+      "notes": "Account Executive para LATAM. Espanol requerido.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 22,
-      "company": "WebPros",
-      "role": "Key Account Manager (EMEA) - Hosting & Cloud",
-      "location": "Barcelona, Espana",
-      "matchScore": 73,
+      "company": "Service Club",
+      "role": "French & Spanish Regional Sales Manager B2B Logistics",
+      "location": "Remote / Europa",
+      "matchScore": 71,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Service%20Club%20Regional%20Sales%20Manager%20Spanish%20French%20Logistics",
       "salary": "No publicado",
-      "notes": "KAM hosting/cloud solutions, EMEA.",
+      "notes": "Sales Manager bilingue, sector logistica.",
       "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "cvBase": "operations",
+        "label": "Operaciones",
+        "adapt": "Enfatizar procesos, KPIs, gestion de equipos"
       },
       "needsCvVersion": true
     },
     {
       "id": 23,
-      "company": "Tucuvi",
-      "role": "Key Account Manager - Public Healthcare",
-      "location": "Remote / Espana",
-      "matchScore": 76,
+      "company": "Eutelsat Americas",
+      "role": "Regional Sales Manager Mexico, Central America & Caribbean",
+      "location": "Remote / Mexico",
+      "matchScore": 74,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Eutelsat%20Americas%20Regional%20Sales%20Manager%20Mexico%20Caribbean",
       "salary": "No publicado",
-      "notes": "KAM salud publica. Sector interesantes con tu exp farma.",
+      "notes": "Regional Sales, satelites/telecom.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 24,
-      "company": "Recordati",
-      "role": "KAM Endocrinology Franchise",
-      "location": "Madrid, Espana",
-      "matchScore": 82,
+      "company": "Reap",
+      "role": "Risk Manager Card Issuing LATAM Expansion",
+      "location": "Remote / Mexico / Colombia",
+      "matchScore": 68,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Reap%20Risk%20Manager%20LATAM%20Expansion",
       "salary": "No publicado",
-      "notes": "KAM farmaceutico, enfocado en endocrinologia. Encaja con tu exp en Bayer/POEN.",
+      "notes": "Risk Manager fintech. LATAM expansion.",
       "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
       },
-      "needsCvVersion": true
+      "needsCvVersion": false
     },
     {
       "id": 25,
-      "company": "Corza Medical",
-      "role": "Key Account Manager Catalunya",
-      "location": "Remote / Cataluna",
-      "matchScore": 77,
+      "company": "Lets Get Funded",
+      "role": "Operations Manager (Remote, Spanish-Speaking Required)",
+      "location": "Remote / USA",
+      "matchScore": 83,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Lets%20Get%20Funded%20Operations%20Manager%20Spanish%20Speaking%20Remote",
       "salary": "No publicado",
-      "notes": "KAM sector medico. Catalunya.",
+      "notes": "Ops Manager remoto. ESPANOL REQUERIDO. Match alto.",
       "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "cvBase": "operations",
+        "label": "Operaciones",
+        "adapt": "Enfatizar procesos, KPIs, gestion de equipos"
       },
       "needsCvVersion": true
     },
     {
       "id": 26,
-      "company": "LHH",
-      "role": "KAM Europe & USA - Food Ingredients (Beverage)",
-      "location": "Murcia, Espana",
-      "matchScore": 71,
+      "company": "Hired",
+      "role": "Operations Manager",
+      "location": "Remote / LATAM",
+      "matchScore": 78,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Hired%20Operations%20Manager%20Remote%20LATAM",
       "salary": "No publicado",
-      "notes": "KAM food/beverage ingredients. Murcia.",
+      "notes": "Ops Manager remoto LATAM.",
       "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "cvBase": "operations",
+        "label": "Operaciones",
+        "adapt": "Enfatizar procesos, KPIs, gestion de equipos"
       },
       "needsCvVersion": true
     },
     {
       "id": 27,
-      "company": "BIP Spain",
-      "role": "Strategy & Operations Director - Life Sciences",
-      "location": "Madrid, Espana",
-      "matchScore": 78,
+      "company": "Nothing",
+      "role": "Order Operations Manager",
+      "location": "Remote / Mexico",
+      "matchScore": 76,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Director%20de%20Operaciones%20Spanish%20Remote",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Nothing%20Order%20Operations%20Manager%20Mexico",
       "salary": "No publicado",
-      "notes": "Director estrategia + operaciones. Life Sciences/Farma.",
+      "notes": "Ops Manager. Nothing es marca tech conocida.",
       "cvRecommendation": {
         "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "label": "Operaciones",
+        "adapt": "Enfatizar procesos, KPIs, gestion de equipos"
       },
       "needsCvVersion": true
     },
     {
       "id": 28,
-      "company": "SingleStore",
-      "role": "Partner Operations Manager (Remote Costa Rica)",
-      "location": "Remote / Costa Rica",
-      "matchScore": 72,
+      "company": "Persona",
+      "role": "Senior Operations Manager (WFH)",
+      "location": "Remote / LATAM",
+      "matchScore": 80,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Persona%20Senior%20Operations%20Manager%20WFH%20LATAM",
       "salary": "No publicado",
-      "notes": "Partner operations, empresa tech base de datos.",
+      "notes": "Senior Ops, work from home LATAM.",
       "cvRecommendation": {
         "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "label": "Operaciones",
+        "adapt": "Enfatizar procesos, KPIs, gestion de equipos"
       },
       "needsCvVersion": true
     },
     {
       "id": 29,
-      "company": "SingleStore",
-      "role": "Revenue Operations Manager (Remote Costa Rica)",
-      "location": "Remote / Costa Rica",
-      "matchScore": 74,
+      "company": "Pro5.ai",
+      "role": "Operations & Marketing Manager LATAM",
+      "location": "Remote / LATAM",
+      "matchScore": 75,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Pro5.ai%20Operations%20Marketing%20Manager%20LATAM",
       "salary": "No publicado",
-      "notes": "Revenue ops, empresa tech.",
+      "notes": "Ops + marketing. Publicado ayer.",
       "cvRecommendation": {
         "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "label": "Operaciones",
+        "adapt": "Enfatizar procesos, KPIs, gestion de equipos"
       },
       "needsCvVersion": true
     },
     {
       "id": 30,
-      "company": "Diffco",
-      "role": "Growth & Operations Manager",
-      "location": "Mexico City",
-      "matchScore": 73,
+      "company": "Connoisseur Media",
+      "role": "Digital Marketing Onboarding/Ops Specialist (Bilingual)",
+      "location": "Remote",
+      "matchScore": 72,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Connoisseur%20Media%20Digital%20Marketing%20Operations%20Specialist%20Bilingual",
       "salary": "No publicado",
-      "notes": "Growth + operations. Mexico.",
+      "notes": "Ops specialist bilingue. Marketing digital.",
       "cvRecommendation": {
         "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "label": "Operaciones",
+        "adapt": "Enfatizar procesos, KPIs, gestion de equipos"
       },
       "needsCvVersion": true
     },
     {
       "id": 31,
-      "company": "Felix",
-      "role": "Operations Quality & Enablement Manager",
-      "location": "Remote / Mexico-Colombia-Argentina",
-      "matchScore": 71,
+      "company": "Motivus",
+      "role": "Service Delivery Manager",
+      "location": "Remote / Mexico",
+      "matchScore": 74,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Motivus%20Service%20Delivery%20Manager%20Mexico",
       "salary": "No publicado",
-      "notes": "Ops quality, fintech. Multiples paises LATAM.",
+      "notes": "Service delivery. Tech墨西哥.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
       },
-      "needsCvVersion": true
+      "needsCvVersion": false
     },
     {
       "id": 32,
-      "company": "Pro5.ai",
-      "role": "Operations & Marketing Manager (LATAM)",
-      "location": "Remote / LATAM",
-      "matchScore": 76,
+      "company": "Vintti",
+      "role": "Accounts Receivable Manager",
+      "location": "Remote / Mexico",
+      "matchScore": 70,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Vintti%20Accounts%20Receivable%20Manager%20Mexico",
       "salary": "No publicado",
-      "notes": "Ops + marketing LATAM. Publicado ayer.",
+      "notes": "Accounts Receivable, finanzas ops.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
       },
-      "needsCvVersion": true
+      "needsCvVersion": false
     },
     {
       "id": 33,
-      "company": "DiDi",
-      "role": "CX Operations Sr Manager",
-      "location": "Mexico City",
-      "matchScore": 77,
+      "company": "FullStack",
+      "role": "Director of Accounting (Remote)",
+      "location": "Remote / Colombia",
+      "matchScore": 73,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=FullStack%20Labs%20Director%20of%20Accounting%20Remote%20Colombia",
       "salary": "No publicado",
-      "notes": "CX operations senior, DiDi es gigante tech.",
+      "notes": "Director contabilidad remoto. Multiple ciudades Colombia.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "accounts",
+        "label": "Finanzas",
+        "adapt": "Enfatizar gestion financiera, reporting"
       },
       "needsCvVersion": true
     },
     {
       "id": 34,
-      "company": "Experian",
-      "role": "Resilience Operation Centre Senior Manager",
-      "location": "Costa Rica",
-      "matchScore": 70,
+      "company": "Instructure",
+      "role": "Manager Customer Success",
+      "location": "Remote / Mexico / Brazil",
+      "matchScore": 74,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Instructure%20Customer%20Success%20Manager%20LATAM",
       "salary": "No publicado",
-      "notes": "Senior Manager operacion centro, Experian.",
+      "notes": "CS Manager LATAM. Edtech.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar retencion, relacion con clientes, onboarding"
       },
       "needsCvVersion": true
     },
     {
       "id": 35,
-      "company": "Stylia Beauty",
-      "role": "Operations Manager - Amazon FBA Beauty Brand",
-      "location": "Remote / Argentina-Colombia-Costa Rica",
-      "matchScore": 69,
+      "company": "INFUSE",
+      "role": "Customer Success Representative LATAM (Remote)",
+      "location": "Remote / Costa Rica",
+      "matchScore": 72,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=INFUSE%20Customer%20Success%20Representative%20LATAM%20Remote",
       "salary": "No publicado",
-      "notes": "Ops e-commerce Amazon FBA. Tu exp en e-commerce encaja.",
+      "notes": "CS Rep LATAM remoto. Costa Rica.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar retencion, relacion con clientes, onboarding"
       },
       "needsCvVersion": true
     },
     {
       "id": 36,
-      "company": "DevSavant",
-      "role": "AI Operations Manager",
-      "location": "Remote / LATAM",
-      "matchScore": 72,
+      "company": "Malt",
+      "role": "Key Account Manager Enterprise",
+      "location": "Madrid, Espana",
+      "matchScore": 78,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Malt%20Key%20Account%20Manager%20Enterprise%20Madrid",
       "salary": "No publicado",
-      "notes": "AI operations, sector emergente.",
+      "notes": "KAM Enterprise. Plataforma freelance europea.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 37,
-      "company": "Palm Outsourcing",
-      "role": "Payments & Partner Operations Manager",
-      "location": "Mexico City / Sao Paulo",
-      "matchScore": 70,
+      "company": "Hornetsecurity",
+      "role": "Key Account Manager Spain South",
+      "location": "Remote / Madrid-Malaga-Sevilla",
+      "matchScore": 76,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Hornetsecurity%20Key%20Account%20Manager%20Spain%20South",
       "salary": "No publicado",
-      "notes": "Payments operations, fintech.",
+      "notes": "KAM ciberseguridad. 3 ubicaciones Andalucia.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 38,
-      "company": "TripleTen",
-      "role": "Sales Supervisor LATAM",
-      "location": "Remote / Multiple LATAM",
-      "matchScore": 68,
+      "company": "Recordati",
+      "role": "KAM Endocrinology Franchise",
+      "location": "Madrid, Espana",
+      "matchScore": 80,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Remote%20Spanish%20Manager",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Recordati%20KAM%20Endocrinology%20Madrid",
       "salary": "No publicado",
-      "notes": "Sales supervisor, multiples ubicaciones LATAM.",
+      "notes": "KAM farmaceutico, endocrinologia.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 39,
-      "company": "knowmad mood",
-      "role": "Technical Pre-Sales Manager (Mexico)",
-      "location": "Mexico City",
+      "company": "Tucuvi",
+      "role": "Key Account Manager Public Healthcare",
+      "location": "Remote / Espana",
       "matchScore": 74,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Tucuvi%20Key%20Account%20Manager%20Public%20Healthcare%20Spain",
       "salary": "No publicado",
-      "notes": "Pre-sales tech, Atlassian partner.",
+      "notes": "KAM salud publica. Espana remoto.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 40,
-      "company": "ABB",
-      "role": "Business Developer Industries",
-      "location": "Remote / Castilla y Leon, Espana",
-      "matchScore": 65,
+      "company": "HBX Group",
+      "role": "Commercial Manager Travel Insurance (Remote Spain)",
+      "location": "Remote / Espana",
+      "matchScore": 79,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=HBX%20Group%20Commercial%20Manager%20Travel%20Insurance%20Spain",
       "salary": "No publicado",
-      "notes": "Business dev industrial, ABB es multinacional grande.",
+      "notes": "Commercial Manager remoto Espana. Insurtech.",
       "cvRecommendation": {
         "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 41,
-      "company": "Amaris Consulting",
-      "role": "Business Consultant",
-      "location": "Madrid, Espana",
-      "matchScore": 66,
+      "company": "Felix",
+      "role": "Head of Fintech Partnerships",
+      "location": "Remote / USA-LATAM",
+      "matchScore": 77,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Felix%20Head%20of%20Fintech%20Partnerships",
       "salary": "No publicado",
-      "notes": "Consultoria de negocios. Madrid.",
+      "notes": "Head of Partnerships fintech. Publicado ayer.",
       "cvRecommendation": {
         "cvBase": "general",
-        "label": "CV General",
-        "adapt": "Versión general, adaptable a cualquier rol"
+        "label": "General",
+        "adapt": "Vers adaptable"
       },
       "needsCvVersion": false
     },
     {
       "id": 42,
-      "company": "BairesDev",
-      "role": "Talent Operations Manager",
-      "location": "Remote / Bogota",
-      "matchScore": 71,
+      "company": "Xtreme Socials",
+      "role": "Cold Caller / Agente de Ventas B2B (Remoto)",
+      "location": "Remote / Espana",
+      "matchScore": 68,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Xtreme%20Socials%20Cold%20Caller%20Agente%20Ventas%20Remoto%20Espana",
       "salary": "No publicado",
-      "notes": "Talent ops, empresa tech grande LATAM.",
+      "notes": "Agente de ventas remoto. B2B.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 43,
-      "company": "Luca",
-      "role": "Customer Success Operations Manager",
-      "location": "Mexico City",
-      "matchScore": 73,
+      "company": "Hanbai.io",
+      "role": "Business Development Representative",
+      "location": "Remote / Madrid",
+      "matchScore": 70,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Hanbai.io%20Business%20Development%20Representative%20Madrid",
       "salary": "No publicado",
-      "notes": "Customer success ops, edtech.",
+      "notes": "BDR. Actively hiring. Madrid.",
       "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
       },
       "needsCvVersion": true
     },
     {
       "id": 44,
-      "company": "Radiometer",
-      "role": "Sales Manager, LATAM and Caribbean",
-      "location": "Sao Paulo",
-      "matchScore": 75,
-      "status": "pending",
-      "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
-      "salary": "No publicado",
-      "notes": "Sales manager salud/LATAM.",
-      "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
-      },
-      "needsCvVersion": true
-    },
-    {
-      "id": 45,
-      "company": "Prosegur",
-      "role": "Director Regional Europa & Asia - ATM",
+      "company": "Redegal",
+      "role": "Chief of Staff",
       "location": "Madrid, Espana",
-      "matchScore": 74,
-      "status": "pending",
-      "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Director%20de%20Operaciones%20Spanish%20Remote",
-      "salary": "No publicado",
-      "notes": "Director regional logistica, multinacional espanola.",
-      "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
-      },
-      "needsCvVersion": true
-    },
-    {
-      "id": 46,
-      "company": "QuintoAndar",
-      "role": "Operational Loss Protection Manager",
-      "location": "Sao Paulo",
-      "matchScore": 68,
-      "status": "pending",
-      "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
-      "salary": "No publicado",
-      "notes": "Ops protection, proptech grande en Brasil.",
-      "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
-      },
-      "needsCvVersion": true
-    },
-    {
-      "id": 47,
-      "company": "Omnissa",
-      "role": "Sr. Manager, Campaign Operations",
-      "location": "Remote / Costa Rica",
-      "matchScore": 67,
-      "status": "pending",
-      "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
-      "salary": "No publicado",
-      "notes": "Campaign ops senior, Costa Rica.",
-      "cvRecommendation": {
-        "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
-      },
-      "needsCvVersion": true
-    },
-    {
-      "id": 48,
-      "company": "Sandisk",
-      "role": "Key Account Manager - Miami",
-      "location": "Miami, FL",
       "matchScore": 72,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Redegal%20Chief%20of%20Staff%20Madrid",
       "salary": "No publicado",
-      "notes": "KAM Sandisk, marca global tech.",
+      "notes": "Chief of Staff. Actively hiring.",
       "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
       },
-      "needsCvVersion": true
+      "needsCvVersion": false
+    },
+    {
+      "id": 45,
+      "company": "Reclut",
+      "role": "Senior Case Manager - Servicios de Extranjeria (Remoto)",
+      "location": "Remote / Madrid",
+      "matchScore": 69,
+      "status": "pending",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Reclut%20Senior%20Case%20Manager%20Extranjeria%20Remoto%20Madrid",
+      "salary": "No publicado",
+      "notes": "Case manager remoto. Sector legal/inmigracion.",
+      "cvRecommendation": {
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
+      },
+      "needsCvVersion": false
+    },
+    {
+      "id": 46,
+      "company": "Crossing Hurdles",
+      "role": "Bilingual Research & Content Specialist",
+      "location": "Remote",
+      "matchScore": 67,
+      "status": "pending",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Crossing%20Hurdles%20Bilingual%20Research%20Content%20Specialist%20Remote",
+      "salary": "$98/hr",
+      "notes": "Research specialist bilingue. Alto pago por hora.",
+      "cvRecommendation": {
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Enfatizar strategia, resultados, creatividad"
+      },
+      "needsCvVersion": false
+    },
+    {
+      "id": 47,
+      "company": "Mercor",
+      "role": "Spanish Language Specialist (Remote)",
+      "location": "Remote",
+      "matchScore": 65,
+      "status": "pending",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Mercor%20Spanish%20Language%20Specialist%20Remote",
+      "salary": "$37/hr",
+      "notes": "Especialista lengua espanola. Remoto.",
+      "cvRecommendation": {
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
+      },
+      "needsCvVersion": false
+    },
+    {
+      "id": 48,
+      "company": "AbroadWorks",
+      "role": "Virtual Assistant Bilingual English/Spanish",
+      "location": "Remote / Mexico",
+      "matchScore": 62,
+      "status": "pending",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=AbroadWorks%20Virtual%20Assistant%20Bilingual%20Spanish%20Remote",
+      "salary": "No publicado",
+      "notes": "VA bilingue. Nivel junior. Mexico.",
+      "cvRecommendation": {
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
+      },
+      "needsCvVersion": false
     },
     {
       "id": 49,
-      "company": "Airbus",
-      "role": "Geospatial Commercial & Bid Manager",
-      "location": "Barcelona, Espana",
+      "company": "GDHG",
+      "role": "Remote Personal Assistant (Based in Madrid)",
+      "location": "Remote / Madrid",
       "matchScore": 63,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Gerente%20Comercial%20Remote%20Spain",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=GDHG%20Remote%20Personal%20Assistant%20Madrid",
       "salary": "No publicado",
-      "notes": "Commercial + bid management, aerospacial.",
+      "notes": "Asistente personal remoto. Madrid.",
       "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "CV Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociación B2B, retención"
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
       },
-      "needsCvVersion": true
+      "needsCvVersion": false
     },
     {
       "id": 50,
-      "company": "CommScope",
-      "role": "Manager Senior, Global Operations",
-      "location": "Ciudad Juarez, Mexico",
-      "matchScore": 71,
+      "company": "BIP Spain",
+      "role": "Strategy & Operations Director Life Sciences",
+      "location": "Madrid, Espana",
+      "matchScore": 78,
       "status": "pending",
       "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Operations%20Manager%20Remote%20LATAM",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=BIP%20Spain%20Strategy%20Operations%20Director%20Life%20Sciences",
       "salary": "No publicado",
-      "notes": "Senior ops global, telecom infrastructure.",
+      "notes": "Director estrategia + operaciones. Life Sciences.",
       "cvRecommendation": {
         "cvBase": "operations",
-        "label": "CV Operaciones",
-        "adapt": "Enfatizar logística, procesos, gestión de equipos, KPIs operativos"
+        "label": "Operaciones",
+        "adapt": "Enfatizar procesos, KPIs, gestion de equipos"
       },
       "needsCvVersion": true
     }
@@ -915,7 +915,14 @@
       "appliedDate": "2026-05-02",
       "cvUsed": "kam-retail-timup",
       "coverLetter": true,
-      "notes": "CV versionado KAM Retail + carta presentacion."
+      "notes": "CV versionado KAM Retail + carta presentacion.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "KAM retail"
+      },
+      "needsCvVersion": true,
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Timup%20Key%20Account%20Manager%20Spanish%20Market%20Retail"
     }
   ],
   "stats": {
