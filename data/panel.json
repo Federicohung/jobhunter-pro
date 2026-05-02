@@ -1,1 +1,111 @@
-﻿
+﻿{
+  "version": "2.0",
+  "updatedAt": "2026-05-02T08:53:00-04:00",
+  "status": "active",
+  "cvVersions": {
+    "general": {
+      "label": "Perfil General",
+      "filename": "Cv 2026 es PERFIL GENERAL.pdf",
+      "target": "Roles generales, direccion, management"
+    },
+    "csatc": {
+      "label": "CSATC / Customer Support",
+      "filename": "Federico hung csatc.pdf",
+      "target": "Atencion al cliente, customer support, soporte"
+    },
+    "operations": {
+      "label": "Operaciones",
+      "filename": "Op.Federico_Hung.pdf",
+      "target": "Operations, logistics, supply chain, process optimization"
+    },
+    "accounts": {
+      "label": "Cuentas / Ventas B2B",
+      "filename": "Cuentas-Federico_Hung.pdf",
+      "target": "Key Account Manager, B2B sales, business development"
+    },
+    "kam-retail-timup": {
+      "label": "KAM Retail (Versionado Timup)",
+      "filename": "Federico_Hung_KAM_Retail.pdf",
+      "target": "KAM, Retail, B2B Commerce"
+    }
+  },
+  "vacancies": [
+    {
+      "id": 1,
+      "company": "HireLATAM",
+      "role": "Director de Operaciones Remoto (Spanish Only)",
+      "location": "Remote / LATAM",
+      "matchScore": 78,
+      "status": "pending",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Director%20de%20Operaciones%20Spanish&location=Remote&f_WT=z",
+      "notes": "Spanish Only, sin ingles obligatorio. Operations management, equipos grandes, experiencia LATAM."
+    },
+    {
+      "id": 2,
+      "company": "AB Tasty",
+      "role": "Senior Key Account Manager - Spain, Italy & LatAm",
+      "location": "Madrid, Espana",
+      "matchScore": 72,
+      "status": "pending",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Spanish%20Market%20Retail&location=Spain&f_WT=z",
+      "notes": "KAM con cobertura LATAM + Europa. Retail/tech. Actively hiring."
+    },
+    {
+      "id": 3,
+      "company": "Prosegur",
+      "role": "Director Regional Europa & Asia - Vertical ATMs",
+      "location": "Madrid, Espana",
+      "matchScore": 68,
+      "status": "pending",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Director%20de%20Operaciones%20Spanish&location=Remote&f_WT=z",
+      "notes": "Logistica y operaciones a nivel regional. Empresa multinacional espanola."
+    },
+    {
+      "id": 4,
+      "company": "BIP Spain",
+      "role": "Strategy & Operations Director - Life Sciences",
+      "location": "Madrid, Espana",
+      "matchScore": 70,
+      "status": "pending",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Director%20de%20Operaciones%20Spanish&location=Remote&f_WT=z",
+      "notes": "Consultoria estrategia + operaciones. Sector Life Sciences / Farma."
+    },
+    {
+      "id": 5,
+      "company": "Frekuent",
+      "role": "Key Account Executive (Hunter)",
+      "location": "Barcelona, Espana",
+      "matchScore": 65,
+      "status": "pending",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Key%20Account%20Manager%20Spanish%20Market%20Retail&location=Spain&f_WT=z",
+      "notes": "Rol Hunter puro - prospeccion y cierre. Barcelona."
+    }
+  ],
+  "applications": [
+    {
+      "id": 1,
+      "company": "Timup",
+      "role": "Key Account Manager (Spanish Market - Retail)",
+      "location": "Barcelona / Remote",
+      "matchScore": 78,
+      "status": "applied",
+      "appliedDate": "2026-05-02",
+      "cvUsed": "kam-retail-timup",
+      "coverLetter": true,
+      "notes": "CV versionado para KAM Retail. Carta de presentacion incluida.",
+      "followUpDate": "2026-05-09",
+      "followUpStatus": "pending"
+    }
+  ],
+  "stats": {
+    "totalApplications": 1,
+    "vacanciesPending": 5,
+    "interviews": 0,
+    "followUps": 0
+  }
+}
