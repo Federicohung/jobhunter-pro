@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-05-02T07:21:00-04:00",
+  "status": "active",
+  "cvVersions": {
+    "general": { "label": "Perfil General", "target": "Roles generales, dirección, management" },
+    "csatc": { "label": "CSATC / Customer Support", "target": "Atención al cliente, customer support, soporte" },
+    "operations": { "label": "Operaciones", "target": "Operations, logistics, supply chain, process optimization" },
+    "accounts": { "label": "Cuentas / Ventas B2B", "target": "Key Account Manager, B2B sales, business development" }
+  },
+  "applications": [],
+  "stats": {
+    "totalApplications": 0,
+    "interviews": 0,
+    "followUps": 0
+  }
+}
