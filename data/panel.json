@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-05-02T16:57:10.701Z",
+  "updatedAt": "2026-05-02T18:16:05.944Z",
   "status": "active",
   "vacancies": [
     {
@@ -850,24 +850,6 @@
       "needsCvVersion": false
     },
     {
-      "id": 49,
-      "company": "GDHG",
-      "role": "Remote Personal Assistant (Based in Madrid)",
-      "location": "Remote / Madrid",
-      "matchScore": 63,
-      "status": "pending",
-      "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=GDHG%20Remote%20Personal%20Assistant%20Madrid",
-      "salary": "No publicado",
-      "notes": "Asistente personal remoto. Madrid.",
-      "cvRecommendation": {
-        "cvBase": "general",
-        "label": "General",
-        "adapt": "Vers adaptable"
-      },
-      "needsCvVersion": false
-    },
-    {
       "id": 50,
       "company": "BIP Spain",
       "role": "Strategy & Operations Director Life Sciences",
@@ -887,6 +869,25 @@
     }
   ],
   "applications": [
+    {
+      "id": 49,
+      "company": "GDHG",
+      "role": "Remote Personal Assistant (Based in Madrid)",
+      "location": "Remote / Madrid",
+      "matchScore": 63,
+      "status": "applied",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=GDHG%20Remote%20Personal%20Assistant%20Madrid",
+      "salary": "No publicado",
+      "notes": "Asistente personal remoto. Madrid.",
+      "cvRecommendation": {
+        "cvBase": "general",
+        "label": "General",
+        "adapt": "Vers adaptable"
+      },
+      "needsCvVersion": false,
+      "appliedDate": "2026-05-02"
+    },
     {
       "id": 1,
       "company": "Hostaway",
@@ -927,8 +928,8 @@
     }
   ],
   "stats": {
-    "totalApplications": 2,
-    "vacanciesPending": 49,
+    "totalApplications": 3,
+    "vacanciesPending": 48,
     "interviews": 0
   }
 }
