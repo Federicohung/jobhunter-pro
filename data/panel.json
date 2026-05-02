@@ -1,26 +1,8 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-05-02T12:00:00-04:00",
+  "updatedAt": "2026-05-02T16:57:10.701Z",
   "status": "active",
   "vacancies": [
-    {
-      "id": 1,
-      "company": "Hostaway",
-      "role": "Customer Success Manager (Spanish Speaking)",
-      "location": "Remote / Bogota, Colombia",
-      "matchScore": 78,
-      "status": "pending",
-      "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Hostaway%20Customer%20Success%20Manager%20Spanish%20Speaking",
-      "salary": "No publicado",
-      "notes": "CSM 100% remoto LATAM. Espanol requerido. Sector hospitality tech.",
-      "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "Comercial/KAM",
-        "adapt": "Enfatizar retencion, relacion con clientes, onboarding"
-      },
-      "needsCvVersion": true
-    },
     {
       "id": 2,
       "company": "Hostaway",
@@ -907,6 +889,25 @@
   "applications": [
     {
       "id": 1,
+      "company": "Hostaway",
+      "role": "Customer Success Manager (Spanish Speaking)",
+      "location": "Remote / Bogota, Colombia",
+      "matchScore": 78,
+      "status": "applied",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Hostaway%20Customer%20Success%20Manager%20Spanish%20Speaking",
+      "salary": "No publicado",
+      "notes": "CSM 100% remoto LATAM. Espanol requerido. Sector hospitality tech.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar retencion, relacion con clientes, onboarding"
+      },
+      "needsCvVersion": true,
+      "appliedDate": "2026-05-02"
+    },
+    {
+      "id": 1,
       "company": "Timup",
       "role": "Key Account Manager (Spanish Market - Retail)",
       "location": "Barcelona / Remote",
@@ -926,8 +927,8 @@
     }
   ],
   "stats": {
-    "totalApplications": 1,
-    "vacanciesPending": 50,
+    "totalApplications": 2,
+    "vacanciesPending": 49,
     "interviews": 0
   }
 }
