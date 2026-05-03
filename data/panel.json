@@ -1,26 +1,8 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-05-02T19:13:24.127Z",
+  "updatedAt": "2026-05-03T04:55:04.946Z",
   "status": "active",
   "vacancies": [
-    {
-      "id": 2,
-      "company": "Hostaway",
-      "role": "Sales Development Representative (Spanish Speaking)",
-      "location": "Remote / Europa",
-      "matchScore": 72,
-      "status": "pending",
-      "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Hostaway%20Sales%20Development%20Representative%20Spanish",
-      "salary": "No publicado",
-      "notes": "SDR para Europa, espanol requerido.",
-      "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
-      },
-      "needsCvVersion": true
-    },
     {
       "id": 3,
       "company": "Gold & Aron",
@@ -852,6 +834,25 @@
   ],
   "applications": [
     {
+      "id": 2,
+      "company": "Hostaway",
+      "role": "Sales Development Representative (Spanish Speaking)",
+      "location": "Remote / Europa",
+      "matchScore": 72,
+      "status": "applied",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=Hostaway%20Sales%20Development%20Representative%20Spanish",
+      "salary": "No publicado",
+      "notes": "SDR para Europa, espanol requerido.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
+      },
+      "needsCvVersion": true,
+      "appliedDate": "2026-05-03"
+    },
+    {
       "id": 47,
       "company": "Mercor",
       "role": "Spanish Language Specialist (Remote)",
@@ -929,8 +930,8 @@
     }
   ],
   "stats": {
-    "totalApplications": 4,
-    "vacanciesPending": 47,
+    "totalApplications": 5,
+    "vacanciesPending": 46,
     "interviews": 0
   }
 }
