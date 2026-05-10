@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-05-03T04:55:04.946Z",
+  "updatedAt": "2026-05-10T11:55:23.205Z",
   "status": "active",
   "vacancies": [
     {
@@ -194,24 +194,6 @@
       "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=AB%20Tasty%20Senior%20KAM%20Spain%20Italy%20LatAm",
       "salary": "No publicado",
       "notes": "KAM senior tech/retail. Cobertura Europa + LATAM.",
-      "cvRecommendation": {
-        "cvBase": "csatc",
-        "label": "Comercial/KAM",
-        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
-      },
-      "needsCvVersion": true
-    },
-    {
-      "id": 14,
-      "company": "STATION F",
-      "role": "Senior KAM - Spain, Italy & LATAM",
-      "location": "Madrid, Espana",
-      "matchScore": 85,
-      "status": "pending",
-      "foundDate": "2026-05-02",
-      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=STATION%20F%20Senior%20KAM%20Spain%20Italy%20LATAM",
-      "salary": "No publicado",
-      "notes": "KAM senior. Activamente contratando.",
       "cvRecommendation": {
         "cvBase": "csatc",
         "label": "Comercial/KAM",
@@ -834,6 +816,25 @@
   ],
   "applications": [
     {
+      "id": 14,
+      "company": "STATION F",
+      "role": "Senior KAM - Spain, Italy & LATAM",
+      "location": "Madrid, Espana",
+      "matchScore": 85,
+      "status": "applied",
+      "foundDate": "2026-05-02",
+      "searchUrl": "https://www.linkedin.com/jobs/search/?keywords=STATION%20F%20Senior%20KAM%20Spain%20Italy%20LATAM",
+      "salary": "No publicado",
+      "notes": "KAM senior. Activamente contratando.",
+      "cvRecommendation": {
+        "cvBase": "csatc",
+        "label": "Comercial/KAM",
+        "adapt": "Enfatizar cuentas clave, revenue, negociacion B2B"
+      },
+      "needsCvVersion": true,
+      "appliedDate": "2026-05-10"
+    },
+    {
       "id": 2,
       "company": "Hostaway",
       "role": "Sales Development Representative (Spanish Speaking)",
@@ -930,8 +931,8 @@
     }
   ],
   "stats": {
-    "totalApplications": 5,
-    "vacanciesPending": 46,
+    "totalApplications": 6,
+    "vacanciesPending": 45,
     "interviews": 0
   }
 }
